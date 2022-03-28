@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nadniel
+- 👋 Hi, I’m @Daniel
 - 👀 I’m interested in drawing
 - 🌱 I’m currently learning BSIT
 - 💞️ I’m looking to collaborate on ...
